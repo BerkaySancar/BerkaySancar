@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BerkaySancar
-- 👀 I’m interested in cars, motorsports and software(since January 1, 2022.).
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in cars, motorsports and football.
+- 🌱 I’m currently learning Java and Swift.
