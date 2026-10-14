@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay Sancar</h1>
 <h3 align="center">I have been a self-taught iOS developer since April 2022.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=berkaysancar&label=Profile%20views&color=0e75b6&style=flat" alt="berkaysancar" /> </p>
-
 <p align="center">📫 How to reach me <b>sancarberkay@gmail.com</b> </p>
 
 <h3 align="middle">Connect with me:</h3>
